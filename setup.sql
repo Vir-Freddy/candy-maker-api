@@ -114,3 +114,8 @@ INSERT INTO products (name, yearIntroduced, manufacturerId) VALUES ("Bazooka Joe
 INSERT INTO products (name, yearIntroduced, manufacturerId) VALUES ("Push Pops", "1986-01-01", 15);
 INSERT INTO products (name, yearIntroduced, manufacturerId) VALUES ("Ring Pops", "1978-01-01", 15);
 INSERT INTO products (name, yearIntroduced, manufacturerId) VALUES ("Pop Rocks", "1956-01-01", 16);
+
+
+SELECT * from products;
+
+SELECT * from manufacturers;
